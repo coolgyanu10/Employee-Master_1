@@ -21,7 +21,7 @@ To register employee:
 Give the test data in body section:
 
   {
-        "employeeName": "Rishikesh Kumar",
+        "employeeName": "Anuj Narayan",
         "employeeNumber": "A765565",
         "password": "Staffing",
         "designation": "Consultant",

@@ -24,7 +24,7 @@ public class SwaggerConfig {
 
 	private ApiInfo apiInfo() {
 		return new ApiInfo("Employee Service Rest API", "Add or Get Employee Details", "API TOS", "Terms of service",
-				new Contact("Vaibhav Mehta", "www.vdmehta36.com", "vamehta@deloitte.com"), "License of API",
+				new Contact("Anuj Narayan & Abhishek Desai"), "License of API",
 				"https://opensource.org/licenses/MIT", Collections.emptyList());
 	}
 }
